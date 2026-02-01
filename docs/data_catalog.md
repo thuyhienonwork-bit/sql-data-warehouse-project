@@ -1,6 +1,5 @@
-**Gold Layer – Data Catalog
+Gold Layer – Data Catalog
 Overview
-**
 ======================================================================
 The Gold Layer represents the business-ready data model used for analytics and reporting.
 It is built using a star schema, consisting of dimension tables and fact tables, optimized for 
