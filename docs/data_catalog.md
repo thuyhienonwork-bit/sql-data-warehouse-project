@@ -5,8 +5,8 @@ The Gold Layer represents the business-ready data model used for analytics and r
 It is built using a star schema, consisting of dimension tables and fact tables, optimized for 
 performance, consistency, and ease of use by downstream consumers such as BI tools and data analysts.
 =====================================================================
-**🧍 gold.dim_customers**
 
+**1. gold.dim_customers**
 Purpose
 Stores customer details enriched with demographic and geographic attributes.
 
