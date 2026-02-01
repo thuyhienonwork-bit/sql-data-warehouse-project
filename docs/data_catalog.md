@@ -7,6 +7,7 @@ performance, consistency, and ease of use by downstream consumers such as BI too
 =====================================================================
 
 **1. gold.dim_customers**
+
 Purpose
 Stores customer details enriched with demographic and geographic attributes.
 
