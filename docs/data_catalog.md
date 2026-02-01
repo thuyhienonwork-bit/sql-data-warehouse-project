@@ -25,7 +25,7 @@ Stores customer details enriched with demographic and geographic attributes.
 | create_date     | DATE         | Date the customer record was created.                    |
 
 
-**📦 gold.dim_products**
+**2. gold.dim_products**
 
 Purpose
 Provides information about products and their attributes.
@@ -45,7 +45,7 @@ Provides information about products and their attributes.
 | end_date             | DATE         | Date when the product was discontinued.                  |
 
 
-**🧾 gold.fact_sales**
+**3. gold.fact_sales**
 
 Purpose
 Stores transactional sales data at the order line level.
